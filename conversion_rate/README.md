@@ -1,2 +1,2 @@
 
-# [str.format()](https://python.readthedocs.io/en/stable/tutorial/inputoutput.html)
+# [str.format()](https://www.digitalocean.com/community/tutorials/how-to-use-string-formatters-in-python-3)
